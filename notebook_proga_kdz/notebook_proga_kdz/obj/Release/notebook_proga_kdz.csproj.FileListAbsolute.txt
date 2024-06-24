@@ -1,0 +1,41 @@
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.exe.config
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.exe
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.pdb
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.dll
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.xml
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.AssemblyReference.cache
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.MainForm.resources
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.Properties.Resources.resources
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.GenerateResource.cache
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.CoreCompileInputs.cache
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.CopyComplete
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.exe
+C:\Users\Raipus\source\repos\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.exe
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\bin\Release\notebook_proga_kdz.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.dll
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.xml
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.MainForm.resources
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.exe
+C:\Users\nikit\OneDrive\Рабочий стол\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.pdb
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Записная книжка.exe.config
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Записная книжка.exe
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Записная книжка.pdb
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.MainForm.resources
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.Properties.Resources.resources
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook_proga_kdz.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\notebook.528F1396.Up2Date
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\Записная книжка.exe
+C:\Users\Nikita\Desktop\notebook_proga_kdz\notebook_proga_kdz\obj\Release\Записная книжка.pdb
